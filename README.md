@@ -10,7 +10,7 @@
 - 🌱 I’m continuously learning **Python, Java, Web Development, and AI.**  
 - 🎯 Passionate about **problem-solving, full-stack development, and open source.**  
 - 📫 Reach me at: **[salman9nandina@gmail.com](mailto:salman9nandina@gmail.com)**  
-- ⚡ Fun fact: **I love coffee ☕ and tech memes! 😆**  
+- ⚡ Fun fact: **I love anime, especially Isekai anime! 🌏✨**  
 
 ---
 

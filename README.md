@@ -1,7 +1,9 @@
 <br clear="both">
 
-<h1 align="center">𝙷𝚒, 𝙸'𝚖 𝚂𝚊𝚕𝚖𝚊𝚗! 👋</h1>
-<h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝, 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=8A2BE2&lines=Hello+World!+🌎;Hi,+I'm+Salman!+👋;A+passionate+CS+and+Tech+student;Exploring+software+development." />
+</h1>
+
 
 ---
 

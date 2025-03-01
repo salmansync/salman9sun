@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=8A2BE2&lines=Hello+World!+🌎;Hi,+I'm+Salman!+👋;A+passionate+CS+and+Tech+student;Exploring+software+development." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=8A2BE2&lines=Hello+World!;Hi,+I'm+Salman!+;A+passionate+CS+and+Tech+student;Exploring+software+development." />
 </h1>
 
 

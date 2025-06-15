@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **exciting projects in software development.**  
 - 🌱 I’m continuously learning **Python, Java, Web Development, and AI.**  
 - 🎯 Passionate about **problem-solving, full-stack development, and open source.**  
-- 📫 Reach me at: **[salman9nandina@gmail.com](mailto:salmansync.now@gmail.com)**  
+- 📫 Reach me at: **[salmansync.now@gmail.com](mailto:salmansync.now@gmail.com)**  
 - ⚡ Fun fact: **I love anime, especially Isekai anime! 🌏✨**  
 
 ---

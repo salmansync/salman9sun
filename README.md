@@ -8,6 +8,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on **exciting projects in software development**.  
 - 🌱 Continuously learning **Python, Java, Web Development, and AI**.  
+- 🌐 Recently building **modern, responsive web projects** (portfolio sites, agency websites).  
 - 🎯 Passionate about **problem-solving, full-stack development, and open source**.  
 - 📫 Reach me: **[salmansync.now@gmail.com](mailto:salmansync.now@gmail.com)**  
 - ⚡ Fun fact: **I’m a big fan of Isekai anime 🌏✨**  
@@ -17,15 +18,14 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,js,github,git,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,python,java,github,git,vscode" />
 </p>
 
----
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.youtube.com/@thesunixzo" target="_blank">
+  <a href="https://www.youtube.com/@sunixzo" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/salman9sun/" target="_blank">

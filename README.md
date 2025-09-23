@@ -62,7 +62,7 @@
 
 ## 🎯 Profile Visitors  
 
-![Profile Views](https://profile-counter.glitch.me/salman9sun/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=salman9sun&color=blue)
 
 
 ---

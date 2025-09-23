@@ -61,9 +61,9 @@
 ---
 
 ## 🎯 Profile Visitors  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/salman9sun/count.svg?" alt="Profile Views" />
-</div>
+
+![Profile Views](https://profile-counter.glitch.me/salman9sun/count.svg)
+
 
 ---
 

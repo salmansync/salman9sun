@@ -44,15 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salman9sun&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman9sun&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🐍 Contribution Graph  
 
 <p align="center">

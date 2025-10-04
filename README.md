@@ -28,13 +28,13 @@
   <a href="https://www.youtube.com/@sunixzo" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/salman9sun/" target="_blank">
+  <a href="https://www.instagram.com/salmansync/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://bd.linkedin.com/in/salman9sun" target="_blank">
+  <a href="https://bd.linkedin.com/in/salmansync" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/SALMAN9SUN" target="_blank">
+  <a href="https://www.facebook.com/salmansync" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://wa.link/aqvbju" target="_blank">
@@ -48,9 +48,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salman9sun/salman9sun/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salman9sun/salman9sun/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/salman9sun/salman9sun/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmansync/salmansync/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmansync/salmansync/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/salmansync/salmansync/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -59,9 +59,9 @@
 ## 🎯 Profile Visitors  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salman9sun&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=salmansync&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-⭐️ From [Salman](https://github.com/salman9sun) — *Making ideas alive with code!*
+⭐️ From [Salman](https://github.com/salmansync) — *Making ideas alive with code!*
